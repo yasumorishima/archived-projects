@@ -19,20 +19,13 @@
 - **アーカイブ理由:**
 - **状態:** Archived
 
-### [RPG_Quest](https://github.com/yasumorishima/RPG_Quest)
-- **言語:**
-- **説明:**
-- **最終更新:** 2023-03-26
-- **アーカイブ理由:**
-- **状態:** Archived
-
 ---
 
 ## 🗑️ Deletion Candidates
 
 アーカイブした後、削除を検討するリポジトリをここにリストアップします。
 
-- [ ] 検討中のリポジトリはまだありません
+- [x] [RPG_Quest](https://github.com/yasumorishima/RPG_Quest) - 空のリポジトリ（最終更新: 2023-03-26）
 
 ---
 
