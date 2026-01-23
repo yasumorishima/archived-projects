@@ -12,9 +12,9 @@
 - **アーカイブ理由:**
 - **状態:** Archived
 
-### [mysite](https://github.com/yasumorishima/mysite)
-- **言語:** JavaScript
-- **説明:**
+### [retro-rpg-game (旧: mysite)](https://github.com/yasumorishima/mysite)
+- **言語:** JavaScript, HTML
+- **説明:** Udemyコース「JavaScriptとHTMLで、レトロ風RPGを作る講座」で作成したゲーム。タイトル画面、マップ移動、戦闘などの機能を持つレトロ風RPG
 - **最終更新:** 2023-03-27
 - **アーカイブ理由:**
 - **状態:** Archived
