@@ -1,16 +1,15 @@
 # Archived Projects
 
-このリポジトリは、アーカイブしたプロジェクトの記録と管理を目的としています。
+このリポジトリは、過去のプロジェクトの記録と保管を目的としています。
 
-## 📦 Archived Repositories
+## 📦 保管中のリポジトリ
 
 ### [open-chat-bots](https://github.com/yasumorishima/open-chat-bots)
 - **言語:** TypeScript
 - **説明:** SDKs for building Bots for OpenChat with examples
 - **ライセンス:** GNU Affero General Public License v3.0
 - **最終更新:** 2025-03-23
-- **状態:** Archived
-- **アーカイブ理由:** OpenChat Botathon イベントでの学習・実験プロジェクト。イベント終了後にアーカイブ。
+- **保管理由:** OpenChat Botathon イベントでの学習・実験プロジェクト。イベント終了後に保管。
 
 #### 📌 プロジェクト背景
 - **イベント:** OpenChat Botathon（2024年3月開催）
@@ -22,25 +21,8 @@
 このプロジェクトは、分散型 SNS プラットフォーム OpenChat におけるボット開発の実践経験を提供しました。
 AI と Blockchain 技術を組み合わせた先進的な取り組みへの参加実績として価値があります。
 
-### [retro-rpg-game (旧: mysite)](https://github.com/yasumorishima/mysite)
+### [retro-rpg-game](https://github.com/yasumorishima/retro-rpg-game)
 - **言語:** JavaScript, HTML
 - **説明:** Udemyコース「JavaScriptとHTMLで、レトロ風RPGを作る講座」で作成したゲーム。タイトル画面、マップ移動、戦闘などの機能を持つレトロ風RPG
 - **最終更新:** 2023-03-27
-- **状態:** Archived
-- **アーカイブ理由:** Udemy 教材での学習完了。コース内容を実践し、基本的な RPG の仕組みを習得したためアーカイブ。
-
----
-
-## 🗑️ Deletion Candidates
-
-アーカイブした後、削除を検討するリポジトリをここにリストアップします。
-
-- [x] [RPG_Quest](https://github.com/yasumorishima/RPG_Quest) - 空のリポジトリ（最終更新: 2023-03-26）
-
----
-
-## 📝 Notes
-
-- アーカイブしたリポジトリは読み取り専用になります
-- 削除前に必要なコードやドキュメントをバックアップしてください
-- 削除は慎重に行い、復元が必要な場合に備えてローカルコピーを保持することを推奨します
+- **保管理由:** Udemy 教材での学習完了。コース内容を実践し、基本的な RPG の仕組みを習得したため保管。
