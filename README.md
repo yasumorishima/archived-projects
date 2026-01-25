@@ -26,3 +26,20 @@ AI と Blockchain 技術を組み合わせた先進的な取り組みへの参�
 - **説明:** Udemyコース「JavaScriptとHTMLで、レトロ風RPGを作る講座」で作成したゲーム。タイトル画面、マップ移動、戦闘などの機能を持つレトロ風RPG
 - **最終更新:** 2023-03-27
 - **保管理由:** Udemy 教材での学習完了。コース内容を実践し、基本的な RPG の仕組みを習得したため保管。
+
+### [raspi-remote-control](https://github.com/yasumorishima/raspi-remote-control)
+- **カテゴリ:** 環境構築ガイド / 備忘録
+- **説明:** Android → Raspberry Pi → Windows PC のリモートCLI操作環境構築ガイド
+- **技術スタック:** Raspberry Pi 5, Tailscale VPN, SSH, OpenSSH Server, Mosh
+- **作成時期:** 2025年
+- **保管理由:** 外出先からスマートフォンでWindows PCのPowerShell/cmdを操作する環境を構築した際の実践的な備忘録。トラブルシューティングや費用対効果の分析も含む。
+
+#### 📌 ガイド概要
+- **目的:** AndroidデバイスからRaspberry Piを中継点として、Windows PCのCLIをセキュアにリモート操作
+- **主な内容:**
+  - Raspberry Pi 5 の初期設定
+  - Windows PC への OpenSSH Server インストール
+  - Tailscale VPN によるセキュアな接続
+  - 実際に遭遇したトラブルと解決策
+  - 省電力設定とセキュリティ強化
+  - 費用対効果の分析（初期費用約2万円、月額700-1200円）
