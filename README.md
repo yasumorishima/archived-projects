@@ -27,11 +27,7 @@ AI と Blockchain 技術を組み合わせた先進的な取り組みへの参�
 - **最終更新:** 2023-03-27
 - **保管理由:** Udemy 教材での学習完了。コース内容を実践し、基本的な RPG の仕組みを習得したため保管。
 
----
-
-## 📄 技術ドキュメント
-
-### [raspi-remote-control](./raspi-remote-control/)
+### [raspi-remote-control](https://github.com/yasumorishima/raspi-remote-control)
 - **カテゴリ:** 環境構築ガイド / 備忘録
 - **説明:** Android → Raspberry Pi → Windows PC のリモートCLI操作環境構築ガイド
 - **技術スタック:** Raspberry Pi 5, Tailscale VPN, SSH, OpenSSH Server, Mosh
