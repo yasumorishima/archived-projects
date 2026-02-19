@@ -4,6 +4,18 @@
 
 ## 📦 保管中のリポジトリ
 
+### [selenium-automation-guide](https://github.com/yasumorishima/selenium-automation-guide)
+- **言語:** Python
+- **説明:** Practical troubleshooting guide for Selenium browser automation, born from real-world problem solving.（実務から生まれたSeleniumブラウザ自動化のトラブルシューティングガイド）
+- **技術スタック:** Python, Selenium, webdriver-manager
+- **保管理由:** 業務自動化プロジェクトとして実装・運用済み。現在は優先度が下がったため保管。
+
+### [business-automation-workflow](https://github.com/yasumorishima/business-automation-workflow)
+- **言語:** Python, Google Apps Script, VBA
+- **説明:** End-to-end automation: Gmail PDF extraction → Excel conversion (VBA + Power Query) → Google Sheets aggregation → Python data integration.（メール添付PDF処理からデータ統合までのエンドツーエンド自動化）
+- **技術スタック:** Google Apps Script, VBA, Power Query, Python, pandas
+- **保管理由:** 実務で運用済みのワークフロー自動化プロジェクト。現在は優先度が下がったため保管。
+
 ### [open-chat-bots](https://github.com/yasumorishima/open-chat-bots)
 - **言語:** TypeScript
 - **説明:** SDKs for building Bots for OpenChat with examples
@@ -20,18 +32,6 @@
 
 このプロジェクトは、分散型 SNS プラットフォーム OpenChat におけるボット開発の実践経験を提供しました。
 AI と Blockchain 技術を組み合わせた先進的な取り組みへの参加実績として価値があります。
-
-### [selenium-automation-guide](https://github.com/yasumorishima/selenium-automation-guide)
-- **言語:** Python
-- **説明:** Practical troubleshooting guide for Selenium browser automation, born from real-world problem solving.（実務から生まれたSeleniumブラウザ自動化のトラブルシューティングガイド）
-- **技術スタック:** Python, Selenium, webdriver-manager
-- **保管理由:** 業務自動化プロジェクトとして実装・運用済み。現在は優先度が下がったため保管。
-
-### [business-automation-workflow](https://github.com/yasumorishima/business-automation-workflow)
-- **言語:** Python, Google Apps Script, VBA
-- **説明:** End-to-end automation: Gmail PDF extraction → Excel conversion (VBA + Power Query) → Google Sheets aggregation → Python data integration.（メール添付PDF処理からデータ統合までのエンドツーエンド自動化）
-- **技術スタック:** Google Apps Script, VBA, Power Query, Python, pandas
-- **保管理由:** 実務で運用済みのワークフロー自動化プロジェクト。現在は優先度が下がったため保管。
 
 ### [retro-rpg-game](https://github.com/yasumorishima/retro-rpg-game)
 - **言語:** JavaScript, HTML
