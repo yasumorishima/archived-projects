@@ -33,12 +33,6 @@
 このプロジェクトは、分散型 SNS プラットフォーム OpenChat におけるボット開発の実践経験を提供しました。
 AI と Blockchain 技術を組み合わせた先進的な取り組みへの参加実績として価値があります。
 
-### [retro-rpg-game](https://github.com/yasumorishima/retro-rpg-game)
-- **言語:** JavaScript, HTML
-- **説明:** Udemyコース「JavaScriptとHTMLで、レトロ風RPGを作る講座」で作成したゲーム。タイトル画面、マップ移動、戦闘などの機能を持つレトロ風RPG
-- **最終更新:** 2023-03-27
-- **保管理由:** Udemy 教材での学習完了。コース内容を実践し、基本的な RPG の仕組みを習得したため保管。
-
 ### [raspi-remote-control](https://github.com/yasumorishima/raspi-remote-control)
 - **カテゴリ:** 環境構築ガイド / 備忘録
 - **説明:** Android → Raspberry Pi → Windows PC のリモートCLI操作環境構築ガイド
@@ -55,3 +49,9 @@ AI と Blockchain 技術を組み合わせた先進的な取り組みへの参�
   - 実際に遭遇したトラブルと解決策
   - 省電力設定とセキュリティ強化
   - 費用対効果の分析（初期費用約2万円、月額700-1200円）
+
+### [retro-rpg-game](https://github.com/yasumorishima/retro-rpg-game)
+- **言語:** JavaScript, HTML
+- **説明:** Udemyコース「JavaScriptとHTMLで、レトロ風RPGを作る講座」で作成したゲーム。タイトル画面、マップ移動、戦闘などの機能を持つレトロ風RPG
+- **最終更新:** 2023-03-27
+- **保管理由:** Udemy 教材での学習完了。コース内容を実践し、基本的な RPG の仕組みを習得したため保管。
