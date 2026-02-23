@@ -4,6 +4,19 @@
 
 ## 📦 保管中のリポジトリ
 
+### [gas-calendar-tool](https://github.com/yasumorishima/gas-calendar-tool)
+- **言語:** Google Apps Script, JavaScript
+- **説明:** Batch calendar event registration tool with senior-friendly mobile UI.（シニア向けモバイルUIでGoogleカレンダーへのイベント一括登録を実現するGASツール）
+- **技術スタック:** Google Apps Script, JavaScript, Google Calendar API
+- **保管理由:** 個人・家族向けツールとして完成・運用済み。現在は優先度が下がったため保管。
+
+### [dune-analytics](https://github.com/yasumorishima/dune-analytics)
+- **言語:** SQL (DuneSQL/Trino), Python
+- **説明:** On-chain data analysis for JPYC stablecoin on Ethereum, Polygon, and Avalanche. Tracks issuance/redemption/circulation with weekly GitHub Actions automation.（JPYCステーブルコインの発行・償還・流通量を3チェーンで追跡するオンチェーンデータ分析）
+- **技術スタック:** SQL (DuneSQL/Trino), Dune Analytics, Python (dune-client), GitHub Actions
+- **記事:** [Zenn](https://zenn.dev/shogaku/articles/dune-jpyc-v2-api-automation)
+- **保管理由:** JPYC分析ダッシュボードとして完成・公開済み。現在は優先度が下がったため保管。
+
 ### [selenium-automation-guide](https://github.com/yasumorishima/selenium-automation-guide)
 - **言語:** Python
 - **説明:** Practical troubleshooting guide for Selenium browser automation, born from real-world problem solving.（実務から生まれたSeleniumブラウザ自動化のトラブルシューティングガイド）
